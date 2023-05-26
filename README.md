@@ -1,4 +1,4 @@
-Working on finance and cryptography stuff
+Mainly finance and monetary motivated quantitative research
 - twitter.com/stiandahlstro
 
 <!---
