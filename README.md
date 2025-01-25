@@ -1,4 +1,4 @@
-Mainly finance and monetary motivated quantitative research
+Mainly finance and tech
 
 <!---
 StianDahlstro/StianDahlstro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
